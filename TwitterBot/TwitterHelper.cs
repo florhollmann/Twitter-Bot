@@ -26,8 +26,8 @@ namespace TwitterBot
                 Lang = LanguageFilter.Spanish,
                 SearchType = SearchResultType.Recent,
                 Since = DateTime.Today.AddDays(-1),
-                Until = DateTime.Today
-                //Filters = TweetSearchFilters.
+                Until = DateTime.Today,
+                Filters = TweetSearchFilters.Images
             };
 
             return searchParameter;
