@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterBot", "TwitterBot\TwitterBot.csproj", "{08AC3D31-8EF2-4B07-9DC3-738350FEC0BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08AC3D31-8EF2-4B07-9DC3-738350FEC0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AC3D31-8EF2-4B07-9DC3-738350FEC0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AC3D31-8EF2-4B07-9DC3-738350FEC0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AC3D31-8EF2-4B07-9DC3-738350FEC0BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBEC64EA-502D-439A-AD66-CE916AF83521}
+	EndGlobalSection
+EndGlobal

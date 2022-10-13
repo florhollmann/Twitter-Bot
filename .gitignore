@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/TwitterBot/v16
+/packages
+/TwitterBot/bin/Debug
+/TwitterBot/obj/Debug
+/TwitterBot/App.config
